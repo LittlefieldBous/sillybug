@@ -36,7 +36,9 @@ img {
 border: 10px solid #000;
 }
 
-
+header{
+	margin-top: 20px;
+}
 
 /*
 headerstyles...........................................
@@ -46,11 +48,15 @@ headerstyles...........................................
 h1 {
 color: #fdfdfd;
 font-family: Verdana, serif;
-font-size: 1.25em;
+font-size: 1.5em;
 font-weight: Bold;
 text-align: center;
 margin: 0 auto;
 padding: 0;
+}
+
+h1:hover{
+	font-size: larger;
 }
 
 h2 {
