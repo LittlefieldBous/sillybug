@@ -1,0 +1,165 @@
+@import url('normalize.css');
+
+/*
+CSS for Project
+*/
+
+/*
+mainstyles.................................................
+*/
+
+body {
+}
+
+p {
+
+}
+
+ul li {
+
+}
+
+/*
+headerstyles...........................................
+*/
+
+
+h1 {
+font-family: Verdana;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+/*
+navigation styles..................................................
+*/
+
+
+.nav {
+   
+    
+}
+
+.nav li {
+    
+}
+
+.nav a {
+    
+    }
+    
+a:hover {
+color: #FFB84D;
+}
+
+a {
+color: #614a23;
+}
+
+a:link {
+color: #614a23;
+}
+
+a:visited {
+color: #669900;
+}
+
+a:hover {
+text-decoration: none;
+color: #FFB84D;
+}
+
+a:active {
+color: #FFFF99;
+}
+
+
+/*
+home page..............................................
+*/
+
+
+/*
+Page1.....................................................
+*/
+
+
+/*
+Page2 ....................................................
+*/
+
+
+/*
+Page3......................................................
+*/
+
+
+/*
+Page4 ...................................................
+*/
+
+
+
+/*
+Page4 ....................................................
+*/
+
+
+/*
+Page5.....................................................
+*/
+
+
+/*
+Page6.....................................................
+*/
+
+
+
+
+/*
+footerstyles..............................................
+*/
+
+/*
+mediaqueries.............................................
+*/
+
+/* tablet portrait size to standard 960 (devices and browsers)*/
+@media screen and (min-width: 768px) and (max-width: 959px) {
+}
+
+
+
+/* mobile landscape size to tablet portrait (devices and browsers)*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+
+
+
+/* mobile portrait size to mobile landscape size (devices and browsers)*/
+@media only screen and (max-width: 479px) {
+
+
+}
+
+
